@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\projAula0909\projAula0909\bin\Debug\projAula0909.exe.config
+C:\Users\aluno\source\repos\projAula0909\projAula0909\bin\Debug\projAula0909.exe
+C:\Users\aluno\source\repos\projAula0909\projAula0909\bin\Debug\projAula0909.pdb
+C:\Users\aluno\source\repos\projAula0909\projAula0909\obj\Debug\projAula0909.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projAula0909\projAula0909\obj\Debug\projAula0909.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projAula0909\projAula0909\obj\Debug\projAula0909.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projAula0909\projAula0909\obj\Debug\projAula0909.exe
+C:\Users\aluno\source\repos\projAula0909\projAula0909\obj\Debug\projAula0909.pdb
